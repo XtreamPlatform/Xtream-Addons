@@ -10,4 +10,5 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 3. Add Mass Edit Lines
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
-6. <a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+
+<a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
