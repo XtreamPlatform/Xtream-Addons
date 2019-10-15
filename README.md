@@ -11,6 +11,6 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
 
-![Status: **Not yet implemented**](http://placehold.it/350x65/FF0000/FFFF00.png&text=Not+yet+implemented) 
+ <span style="color: green"> Some green text </span>
 
 <span style=“color:FFFF00;”> HELLO </span>
