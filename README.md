@@ -10,7 +10,4 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 3. Add Mass Edit Lines
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
-
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>
+ <b style='color:red'>red words</b>
