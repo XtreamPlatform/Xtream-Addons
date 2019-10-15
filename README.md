@@ -11,9 +11,8 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
 6. A new option : Lines expid date Automatic. Created date when play the line
-
- Update coming soon
- 8. Add series 
- 7. Active code and Apk Android
+Update coming soon
+8. Add series 
+7. Active code and Apk Android 
 
 <a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
