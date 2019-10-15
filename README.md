@@ -12,6 +12,6 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 5. Add Backup And Restore Database
 
 ```diff
-- text in red
+-text in red
 ```
 
