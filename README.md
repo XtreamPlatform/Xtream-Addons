@@ -10,7 +10,6 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 3. Add Mass Edit Lines
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
-<div class="text-red mb-2">
-  .text-red on white
-</div>
+// Gray. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
+
 
