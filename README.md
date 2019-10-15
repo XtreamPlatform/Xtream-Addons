@@ -10,7 +10,7 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 3. Add Mass Edit Lines
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+6. <div class="text-red mb-2">
+   HELLO
 </div>
+
