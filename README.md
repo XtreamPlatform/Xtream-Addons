@@ -15,3 +15,7 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 8. Add series
 7. Active Code API and Apk Android 
 
+
+
+### SKYPE ID:    live:.cid.e5c50309871663d0
+### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
