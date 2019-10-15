@@ -11,4 +11,4 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 4. Add Sort Bouquets
 5. Add Backup And Restore Database
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+<span style="color:orange;">Word up</span>
