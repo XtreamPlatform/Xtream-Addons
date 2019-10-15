@@ -12,7 +12,6 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 5. Add Backup And Restore Database
 6. A new option : Lines expid date Automatic. Created date when play the line
 <p> Update coming soon </p>
-<p> 8. Add series </p>
-
+<p>8. Add series </p>
 7. Active code and Apk Android 
 
