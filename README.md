@@ -17,7 +17,7 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 9. Active Code API and Apk Android 
 <br>	</br>
 ### The panel is free one day for testing
-### To use this panel you have to donate 30 Euro a month to the project
+### To use this panel.You must donate 30 Euro monthly to the project
 
 <br>	</br>
 ### SKYPE ID:    live:.cid.e5c50309871663d0
