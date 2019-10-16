@@ -19,5 +19,7 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 ### The panel is free one day for testing
 ### To use this panel you have to donate 30 Euro a month to the project
 
+<br>	</br>
+
 ### SKYPE ID:    live:.cid.e5c50309871663d0
 ### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
