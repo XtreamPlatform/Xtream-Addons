@@ -22,3 +22,5 @@ Xtream Codes Platform Installer on Ubuntu 14 16 18 19
 <br>	</br>
 ### SKYPE ID:    live:.cid.e5c50309871663d0
 ### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
+
+# Panel Installer 
