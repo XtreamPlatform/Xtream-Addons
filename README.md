@@ -12,9 +12,10 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 5. Add Backup And Restore Database
 6. A new option : Lines expid date Automatic. Created date when play the line
 7. Fixed URL Stream : http//IP:PORT/USER/PASS/ID
+8. Import Database Xtreamcode V1 & V2
 # Update coming soon 
-8. Add series
-9. Active Code API and Apk Android 
+9. Add series
+10. Active Code API and Apk Android 
 <br>	</br>
 ### The panel is free one day for testing
 ### To use this panel.You must donate 30 Euro monthly to the project
