@@ -29,7 +29,8 @@ ubuntu 16,18,19 :  apt-get install lsb-release nscd curl php
 
       wget https://github.com/XtreamPlatform/Xtream-Addons/edit/master/xtreamplatform.php && php xtreamplatform.php
 
- ### License
- 
-# The panel is free one day for testing
-# To use this panel.You must donate 30 Euro monthly to the project
+# License
+
+### The panel is free one day for testing
+
+### To use this panel.You must donate 30 Euro monthly to the project
