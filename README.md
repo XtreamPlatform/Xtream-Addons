@@ -23,7 +23,7 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 # Panel Installer 
 ubuntu 14 :  
 
-   apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
 
 
 ubuntu 16,18,19 : 
