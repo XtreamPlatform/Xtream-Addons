@@ -39,6 +39,5 @@ ubuntu 16,18,19 :
 
 #### To enable the license
 #### Send a message from Skype
-
 ##### SKYPE ID:    live:.cid.e5c50309871663d0
 ##### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
