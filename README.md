@@ -13,14 +13,12 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 6. A new option : Lines expid date Automatic. Created date when play the line
 7. Fixed URL Stream : http//IP:PORT/USER/PASS/ID
 8. Import Database Xtreamcode V1 & V2
-# Update coming soon 
+### Update coming soon 
 9. Add series
 10. Active Code API and Apk Android 
 <br>	</br>
 
 <br>	</br>
-### SKYPE ID:    live:.cid.e5c50309871663d0
-### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
 
 # Panel Installer 
 ubuntu 14       :  apt-get install lsb-release nscd curl php5 
@@ -34,3 +32,5 @@ ubuntu 16,18,19 :  apt-get install lsb-release nscd curl php
 ### The panel is free one day for testing
 
 ### To use this panel.You must donate 30 Euro monthly to the project
+#### SKYPE ID:    live:.cid.e5c50309871663d0
+#### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
