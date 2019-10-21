@@ -21,7 +21,13 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 
 <br>	</br>
 
+   
 # Panel Installer 
+
+MySQL-5.5.62 Installer:
+
+   wget https://raw.githubusercontent.com/XtreamPlatform/mysql/master/mysql.sh && chmod a+x mysql.sh && ./mysql.sh
+   
 ubuntu 14 :  
 
       apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
