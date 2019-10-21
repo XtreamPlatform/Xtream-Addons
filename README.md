@@ -27,7 +27,7 @@ ubuntu 14       :  apt-get install lsb-release nscd curl php5
 <br>	</br>
 ubuntu 16,18,19 :  apt-get install lsb-release nscd curl php
 
-   wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+     wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
 
 # License
 
