@@ -26,8 +26,8 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 
 # Panel Installer 
 ubuntu 14:  apt-get install lsb-release nscd curl php5 
-install panel: php iptv.php
 
 ubuntu 16,18,19:  apt-get install lsb-release nscd curl php
 
-install panel: php iptv.php
+install panel: 
+ wget https://github.com/XtreamPlatform/Xtream-Addons/edit/master/xtreamplatform.php && php xtreamplatform.php
