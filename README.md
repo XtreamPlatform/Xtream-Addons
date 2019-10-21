@@ -21,14 +21,15 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 <br>	</br>
 
 # Panel Installer 
-ubuntu 14       :  
+ubuntu 14 :  
 
      apt-get install lsb-release nscd curl php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
 
 
-ubuntu 16,18,19 :  apt-get install lsb-release nscd curl php
+ubuntu 16,18,19 : 
 
-     wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt-get install lsb-release nscd curl php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+
 
 # License
 
