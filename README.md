@@ -26,7 +26,7 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 
 MySQL-5.5.62 Installer:
 
-   wget https://raw.githubusercontent.com/XtreamPlatform/mysql/master/mysql.sh && chmod a+x mysql.sh && ./mysql.sh
+         wget https://raw.githubusercontent.com/XtreamPlatform/mysql/master/mysql.sh && chmod a+x mysql.sh && ./mysql.sh
    
 ubuntu 14 :  
 
