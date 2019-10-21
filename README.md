@@ -13,9 +13,10 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 6. A new option : Lines expid date Automatic. Created date when play the line
 7. Fixed URL Stream : http//IP:PORT/USER/PASS/ID
 8. Import Database Xtreamcode V1 & V2
+9. phpmyadmin : http://ip:8000/phpmyadmin # user: root & pass: mysqlpassword
 ### Update coming soon 
-9. Add series
-10. Active Code API and Apk Android 
+10. Add series
+11. Active Code API and Apk Android 
 <br>	</br>
 
 <br>	</br>
