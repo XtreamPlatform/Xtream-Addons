@@ -30,4 +30,4 @@ ubuntu 14:  apt-get install lsb-release nscd curl php5
 ubuntu 16,18,19:  apt-get install lsb-release nscd curl php
 
 install panel: 
-       wget https://github.com/XtreamPlatform/Xtream-Addons/edit/master/xtreamplatform.php && php xtreamplatform.php
+               wget https://github.com/XtreamPlatform/Xtream-Addons/edit/master/xtreamplatform.php && php xtreamplatform.php
