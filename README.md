@@ -17,8 +17,6 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 9. Add series
 10. Active Code API and Apk Android 
 <br>	</br>
-### The panel is free one day for testing
-### To use this panel.You must donate 30 Euro monthly to the project
 
 <br>	</br>
 ### SKYPE ID:    live:.cid.e5c50309871663d0
@@ -30,3 +28,8 @@ ubuntu 14       :  apt-get install lsb-release nscd curl php5
 ubuntu 16,18,19 :  apt-get install lsb-release nscd curl php
 
       wget https://github.com/XtreamPlatform/Xtream-Addons/edit/master/xtreamplatform.php && php xtreamplatform.php
+
+ ### License
+ 
+# The panel is free one day for testing
+# To use this panel.You must donate 30 Euro monthly to the project
