@@ -36,6 +36,14 @@ ubuntu 14 :
 ubuntu 16,18,19 : 
 
       apt update && apt-get install php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      
+Restart: 
+
+      sudo /etc/init.d/xtreamcodes start
+
+
+Type a message
+
 
 
 # License
