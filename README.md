@@ -50,7 +50,7 @@ Type a message
 
 ### The panel is free one day for testing
 
-### To use this panel.You must donate 30 Euro monthly to the project
+### To use this panel.You must donate 33 Euro monthly to the project
 
 # To enable the license
 #### Send your ip address a message from Skype
